@@ -1,0 +1,15 @@
+{
+  "name": "voidroute",
+  "version": "0.1.0",
+  "description": "Real Windows gaming network diagnostics application",
+  "main": "dist/main/electron.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "devDependencies": {
+    "electron": "latest",
+    "electron-builder": "latest",
+    "typescript": "latest"
+  }
+}
